@@ -1,0 +1,11 @@
+Start:
+-> choose size of the game and press "Start".
+
+Controls:
+-> move with arrows.
+-> press "H" to find answer.
+-> press "Esc" to close game window.
+
+More information:
+-> each level has 10 math problems.
+-> if you reach level 10, the difficulty of game stops increasing.
